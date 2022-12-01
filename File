@@ -1,0 +1,8 @@
+#include <iostream>
+include namespace std;
+
+int main() {
+    int variable = 0;
+    cout << variable << endl;
+    return 0;
+}
